@@ -1,0 +1,65 @@
+h1{
+	background-color: #cdcdb1;
+}
+li{
+	display: inline;
+}
+#cop{
+	float: left;
+	overflow: scroll;
+	overflow: scroll;
+	margin-right: 20px;
+	margin-left: 20px;
+	width: 300px;
+	height: 200px;
+}
+#ent{
+	overflow: scroll;
+	float: right;
+	overflow: scroll;
+	margin-right: 20px;
+	margin-left: 20px;
+	width: 300px;
+	height: 200px;
+	
+
+}
+#edu{
+	overflow: scroll;
+}	
+a:hover{
+			background-color: white;
+		}
+		#top{
+
+			background-color: #cdcdb1;
+			font-family: padauk;
+			font-size: 25px;
+			color: #000000;
+			text-align: right;
+			list-style-type: none;
+
+		}
+		li a{
+			background-color: #ccffcc;
+			font-family: padauk;
+			font-size: 25px;
+			padding: 8px 16px;
+			border-radius: 5px;
+			list-style-type: none;
+			text-decoration-style: none;
+			margin-right: 50px;
+			margin-left: 50px;
+			text-align: right;
+
+
+		}
+fieldset{
+	background-color: #cdcdb1;
+}
+#footer{
+	text-align: center;
+
+
+
+
